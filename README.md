@@ -3,3 +3,4 @@
 
 ####单例 -- Singleton
 ####原型 -- Prototype
+####代理 -- Proxy
